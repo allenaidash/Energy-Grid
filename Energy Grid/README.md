@@ -25,4 +25,4 @@ This methodology directly addresses the primary pain points of modern utilities:
 * **Grid Resilience:** Providing a dispatchable, statistical resource that remains reliable even with high customer opt-out variability.
 
 ---
-
+author: Allen Aguas
